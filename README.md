@@ -10,7 +10,7 @@ There are two sites available:
 2. [Multiple Search](https://sahobitayo.github.io/javascript-challenge/UFO-level-2/index.html)
 - This site includes everything from the first site, but in addition, this site allows you to set multiple filters and do a more advanced search on specific criteria, including date, city, state, country, and shape.
 - The code for this site is available in the [UFO-level-2](https://github.com/sahobitayo/javascript-challenge/tree/master/UFO-level-2) folder of this repository.
-
+<img src="UFO_page.png" >
 ## Tools Used
 - **Javascript**
 - **CSS**
